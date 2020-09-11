@@ -10,7 +10,7 @@ class RingBuffer:
             self.storage.append(item)
         else:
             self.storage[self.counter] = item
-            self.counter = self.counter + 1
+            self.counter += 1
         if self.counter >= self.capacity:
             self.counter = 0
 

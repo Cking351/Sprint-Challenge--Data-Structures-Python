@@ -69,6 +69,7 @@ duplicates2 = set()
 #     for name_2 in names_2:
 #         if name_1 == name_2:
 #             duplicates.append(name_1)
+# My interpretation of stretch.. ->
 # for name in names_1:
 #     if name in names_2:
 #         duplicates2.add(name) # This runs at runtime: 1.253638505935669 seconds. Shaves off 4 seconds
