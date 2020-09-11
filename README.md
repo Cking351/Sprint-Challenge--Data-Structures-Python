@@ -78,7 +78,7 @@ would become...
 ```
 3->2->1->None
 ```
-
+##
 While credit will be given for a functional solution, only optimal solutions will earn a ***3*** on this task.
 
 #### Stretch 
